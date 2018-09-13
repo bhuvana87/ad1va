@@ -1,0 +1,14 @@
+{
+  "filterAssets": {
+    "filters": [
+      {
+        "field": "title",
+        "values": [
+          "title1"
+        ]
+      }
+    ],
+    "client": "testclient",
+    "site": "testsite"
+  }
+}

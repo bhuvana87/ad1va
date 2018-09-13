@@ -1,0 +1,77 @@
+{
+  "sidenavlinks": [
+    {
+      "id": 1,
+      "name": "Assets",
+      "link": "Assets",
+      "iconText": "filter",
+      "priority": 2
+    },
+    {
+      "id": 2,
+      "name": "Insights",
+      "link": "Insights",
+      "iconText": "pie_chart",
+      "priority": 1
+    },
+    {
+      "id": 3,
+      "name": "Approve Assets",
+      "link": "ApproveAssets",
+      "iconText": "playlist_add_check",
+      "priority": 4
+    },
+    {
+      "id": 4,
+      "name": "Settings",
+      "link": "Settings",
+      "iconText": "settings",
+      "priority": 3
+    }
+  ],
+  "logo": [
+    {
+      "corpId": 1,
+      "name": "Newscorp",
+      "imageUrl": "https://newscorpcom.files.wordpress.com/2014/05/news_corp_logo.jpg"
+    }
+  ],
+  "form": [
+    {
+      "id": 1,
+      "label": "Name",
+      "name" : "name",
+      "type": "text"
+    },
+    {
+      "id": 2,
+      "label": "Password",
+      "name" : "password",
+      "type": "password"
+    }
+  ],
+  "appsdropdown": [
+    {
+      "id": 1,
+      "iconName": "apps",
+      "type" : "dropdown",
+      "menu": [
+        {
+          "id": 1,
+          "name": "JD",
+          "link": "https://jdvault-nextgen.netlify.com/jdvault/dashboard.html"
+        },
+        {
+          "id": 2,
+          "name": "JD Flow",
+          "link": "https://jdvault-nextgen.netlify.com/jdvault/dashboard.html"
+        },
+        {
+          "id": 3,
+          "name": "JD Traffic",
+          "link": "https://jdvault-nextgen.netlify.com/jdvault/dashboard.html"
+        }
+      ]
+    }
+  ]
+}

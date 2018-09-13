@@ -1,0 +1,9 @@
+node_modules
+package-lock.json
+*.iml
+.idea
+#*.json
+.vscode
+dist
+src/assets/css/styles.css
+src/assets/css/styles.css.map
